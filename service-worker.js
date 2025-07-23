@@ -13,9 +13,6 @@ const ASSETS = [
   './images/man-truck.jfif',
   './icons/icon-192x192.png',
   './icons/icon-512x512.png',
-  'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css',
-  'https://unpkg.com/leaflet@1.7.1/dist/leaflet.css',
-  'https://unpkg.com/leaflet@1.7.1/dist/leaflet.js'
 ];
 
 self.addEventListener('install', (event) => {

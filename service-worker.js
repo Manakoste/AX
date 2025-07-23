@@ -11,8 +11,6 @@ const ASSETS = [
   './images/hero-bg.jpg',
   './images/volvo-truck.jpg',
   './images/man-truck.jpg',
-  './images/sprinter.jpg',
-  './images/trailer.jpg',
   './icons/icon-192x192.png',
   './icons/icon-512x512.png',
   'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css',
